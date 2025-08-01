@@ -102,8 +102,8 @@ Based on the COCO dataset:
 
 ## 💼 Internship Info
 • Internship Domain: Artificial Intelligence Intern  
-• Project ID: #CC3600  
-• Project Title: Object Detection System  
+• Project ID: #CC3595 
+• Project Title: image recognition  
 • Organization: CodeClause  
 • Project Duration: 01 July 2025 – 31 July 2025  
 
@@ -111,7 +111,7 @@ Based on the COCO dataset:
 
 ## 🔗 Project Link
 
-📎 GitHub Repository: https://github.com/abdulghani777/CodeClauseInternship_ObjectDetectionSystem
+📎 GitHub Repository: https://github.com/abdulghani777/CodeClauseInternship_ImageRecognitionSystem
 
 ---
 
